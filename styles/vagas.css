@@ -1,0 +1,35 @@
+
+
+.vagas {
+    text-align: center;
+    padding-top: 5em;
+}
+.vagas-titulo {
+    color: var(--cor-vinho);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 10px;
+
+}
+.vagas-titulo__principal{
+    color: var(--cor-principal);
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 600;
+    margin-bottom: 10px;
+
+}
+.vagas-descricao{
+    color: var(--cor-secundaria);
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 50px;
+
+}
+.vagas-imagem img {
+    width: 80%;
+
+    
+}
+

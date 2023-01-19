@@ -1,0 +1,40 @@
+
+
+.vagas__abertas {
+    padding-top: 3em;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    }
+.vagas__abertas-lista {
+    margin: 2em;
+    margin: 0 auto;
+    text-align: start;
+    list-style-type: none;
+    width: 70%;
+}
+.design__lista, .software__lista {
+    list-style-type: none;
+}
+.vagas-abertas__titulo {
+    margin-top: 64px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+.container__vagas h3  {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 54px;
+    padding-bottom: 32px;
+}
+.container-vagas__descricao {
+    display: inline-block;
+    color: var(--cor-secundaria);
+    padding-right: 3em;
+    line-height: 24px;
+}
+

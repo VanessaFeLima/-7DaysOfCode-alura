@@ -1,0 +1,25 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--branco);
+    padding: 6em 20em;
+}
+.banner__titulo {
+    font-weight: 600;
+    color: var(--cor-vinho);
+}
+.banner__titulo-principal {
+    color: var(--cor-principal);
+    font-size: 48px;
+    font-weight: 600;
+
+}
+.banner__texto {
+    color: var(--cor-secundaria); 
+    text-align: center; 
+    font-size: 20px;
+  
+}

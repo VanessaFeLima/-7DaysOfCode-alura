@@ -1,0 +1,16 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 76px;
+
+}
+.rodape__texto {
+    line-height: 24px;
+    color: var(--cor-rodape);
+}
+
+
+
+
+
